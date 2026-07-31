@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+@import "tailwindcss";
+@import "@lark-apaas/client-toolkit-lite/styles.css";
+@import "tw-animate-css";
+@import "./tailwind-theme.css";
+@import "./typography.css";
